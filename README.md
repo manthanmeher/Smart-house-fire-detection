@@ -52,9 +52,8 @@ The DHT11 measures temperature and humidity, which are displayed on a 16×2 I2C 
 - [Project Overview](docs/PROJECT-OVERVIEW.md)
 - [Testing Documentation](docs/TESTING.md)
 - [Wiring Documentation](docs/WIRING.md)
+- [Final Project Report (PDF)](docs/Smart_House_Fire_Detection_Report.pdf)
 - [Source Code Folder](src/SmartHouseFireDetection/)
-
-**Project Report:** In progress. The completed report will be added to the `docs/` folder.
 
 ## Working Principle
 
@@ -85,4 +84,4 @@ The pump uses a separate low-voltage power supply. Keep water away from the Ardu
 
 ## Project Status
 
-Source code, diagrams, and a project photograph have been uploaded. Documentation is being finalized, and the project report is in progress.
+The source code, diagrams, project photograph, documentation, and final project report are included in the repository.
